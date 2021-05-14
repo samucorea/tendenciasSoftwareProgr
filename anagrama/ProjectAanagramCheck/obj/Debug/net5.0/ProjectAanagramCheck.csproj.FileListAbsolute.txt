@@ -1,0 +1,12 @@
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\bin\Debug\net5.0\ProjectAanagramCheck.deps.json
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\bin\Debug\net5.0\ProjectAanagramCheck.dll
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\bin\Debug\net5.0\ref\ProjectAanagramCheck.dll
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\bin\Debug\net5.0\ProjectAanagramCheck.pdb
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.dll
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ref\ProjectAanagramCheck.dll
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\ProjectAanagramCheck\obj\Debug\net5.0\ProjectAanagramCheck.pdb
