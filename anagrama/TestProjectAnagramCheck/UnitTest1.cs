@@ -31,5 +31,14 @@ namespace TestProjectAnagramCheck
 
             Assert.That(() => anagram.AreAnagrams("romo", "moro"), Is.True);
         }
+
+        [Test]
+
+        public void s1_and_s2_are_not_anagrams_returns_false()
+        {
+            Anagram anagram = new Anagram();
+
+            Assert.That(() => anagram.AreAnagrams("hola", "moro"), Is.False);
+        }
     }
 }
