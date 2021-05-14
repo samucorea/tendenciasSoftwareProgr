@@ -1,18 +1,18 @@
 using NUnit.Framework;
+using ProjectAanagramCheck;
 
 namespace TestProjectAnagramCheck
 {
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
+
 
         [Test]
-        public void Test1()
+        public void s1_is_null_throw_ArgumentNullException()
         {
-            Assert.Pass();
+            Anagram anagram = new Anagram();
+
+            Assert.That(() => anagram.AreAnagrams(null, "hey"), Throws.ArgumentNullException);
         }
     }
 }

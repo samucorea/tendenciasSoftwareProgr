@@ -97,3 +97,5 @@ C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\o
 C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\obj\Debug\net5.0\ref\TestProjectAnagramCheck.dll
 C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\obj\Debug\net5.0\TestProjectAnagramCheck.pdb
 C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\obj\Debug\net5.0\TestProjectAnagramCheck.genruntimeconfig.cache
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\bin\Debug\net5.0\ProjectAanagramCheck.dll
+C:\Users\Samuel\Documents\Tendencias Software\anagrama\TestProjectAnagramCheck\bin\Debug\net5.0\ProjectAanagramCheck.pdb
